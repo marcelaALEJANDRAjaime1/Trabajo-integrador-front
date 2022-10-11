@@ -1,0 +1,136 @@
+.navbar{
+  background-color:#3b4146 ;
+  
+}
+.navbar img{
+  width: 10em;;
+  padding-left: 2em;
+}
+.navbar h1{
+  color:white;
+  font-size: medium;
+  margin-top: 2em;
+}
+.navbar a {
+  color: #fff;
+}
+.nav a:last-child  {
+  color: #279c41;
+  padding-right: 5em;
+}
+
+.slide img {
+  max-width: 100%;
+  z-index: -1;
+  filter: brightness(0.3);
+  line-height: 0%;
+  
+}
+
+h5 {
+  color: #fff;
+  font-size:2em;
+}
+
+.carousel-caption {
+  text-align: right;
+  padding-bottom: 25%;
+  right: 5%;
+  
+}
+
+.btn-outline-primary {
+  color: #fff;
+  border: 1px solid #fff;
+  font-weight: bold;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #29a744;
+  border-color: #29a744;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+.h3{
+  text-align: center;
+}
+.card {
+  margin-right: 1em;
+  margin-bottom: 1em;
+}
+.javascrip{
+  color:black;
+  background-color:yellow;
+  border-color: yellow;
+}
+.react{
+  color:white;
+  background-color:#0BE1F6;
+  border-color:#0BE1F6 ;
+}
+.negocios{
+  color:white;
+  background-color: #454a4e;
+  border-color: #454a4e;
+}
+.star{
+  color:white;
+  background-color: #EA454D;
+  border-color: #EA454D;
+}
+.container2 {
+  display: flex;
+}
+
+.conocer {
+  display: flex;
+}
+.conocer div:first-child {
+  width: 50%;
+}
+.conocer div:last-child {
+  background-color: rgb(59, 59, 59);
+  float: right;
+  padding:2em;
+  color: #fff;
+}
+.formulario {
+  text-align:center;
+} 
+
+u {
+  text-decoration: none;
+  border-bottom: 3px dotted #000;
+  }
+
+.form2 {
+  display: flex;
+  justify-content: center;
+}
+
+  input {
+    margin:1em 1em;
+  }
+  textarea {
+    margin: 1em 1em;
+  }
+.form-text{
+  display: flex;
+  justify-content: flex-start;
+  margin: 1em 1em;
+}
+
+.boton-formulario {
+  margin: 1em;
+  color: #fff;
+  background-color: #96c93e;
+  border-color: #96c93e;
+}
+
+.nav-footer {
+  justify-content: center;
+  background-color: #1e516e;
+}
